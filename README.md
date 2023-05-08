@@ -10,33 +10,22 @@ Welcome to GraphicFiguresApp, an intuitive and interactive C# Windows Forms appl
 GraphicFiguresApp offers a wide range of features that make working with geometric shapes a breeze:
 
 - Create triangles, rectangles, and ellipses with ease.
-
 ![Screenshot_2](https://user-images.githubusercontent.com/114136127/236769660-9749a97c-b340-420e-bcaf-13a94762cc69.png)
-
 - Select and move shapes on the canvas by dragging the mouse.
-
 ![Screenshot_3](https://user-images.githubusercontent.com/114136127/236770087-2d940d1a-58ed-484b-a86e-f31736254487.png)
-
 - Customize shape colors and properties with interactive dialogs.
-
 ![Screenshot_4](https://user-images.githubusercontent.com/114136127/236770317-89930800-d38c-4968-858b-4340685ddc5b.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/114136127/236770323-a212a144-4306-4f53-a9ec-884537b28054.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/114136127/236770326-7cb37a81-3322-4eb4-9ffa-d53cdfcde3b6.png)
-
 - Delete shapes individually or in groups.
-- 
 ![Screenshot_7](https://user-images.githubusercontent.com/114136127/236770644-2360c31e-2da7-4af5-947f-24dd493725c3.png)
 ![Screenshot_8](https://user-images.githubusercontent.com/114136127/236770645-db30580d-71c0-428b-9ef1-7b08da88eaa0.png)
 ![Screenshot_9](https://user-images.githubusercontent.com/114136127/236770640-93cdbf0d-386e-4038-ac55-8198f5c7bf91.png)
 ![Screenshot_10](https://user-images.githubusercontent.com/114136127/236770642-48f12d30-0b41-4c75-b21c-8811973d1c3f.png)
-
 - Calculate the area and perimeter of selected shapes.
-
 ![Screenshot_11](https://user-images.githubusercontent.com/114136127/236770849-e5d1ccfe-c9bc-4fcd-98e8-c9c1b652f0ae.png)
 ![Screenshot_12](https://user-images.githubusercontent.com/114136127/236770853-ea62e583-fa25-4aa9-bb3f-9ee55c77e2c7.png)
-
 - Save and load your work with built-in serialization support.
-
 ![Screenshot_13](https://user-images.githubusercontent.com/114136127/236771110-d88fa58b-1e17-4de7-8b52-bf407136b734.png)
 ![Screenshot_14](https://user-images.githubusercontent.com/114136127/236771111-d1213b17-365b-4941-9c4b-bac0dc20ca54.png)
 ![Screenshot_15](https://user-images.githubusercontent.com/114136127/236771112-3283e4ad-aeae-42f2-aadd-5fd491134142.png)
